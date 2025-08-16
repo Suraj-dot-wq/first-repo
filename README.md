@@ -1,1 +1,1 @@
-# first-repo
+my-demo-repo
